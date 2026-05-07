@@ -1,0 +1,12 @@
+{
+  "name": "bot-barbearia",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp Barbearia",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "latest"
+  }
+}
